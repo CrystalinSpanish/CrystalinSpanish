@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @CrystalinSpanish
-- 👀 I’m interested in learning new transferable skills that can help make my life easier.
-- 🌱 I’m currently learning how to pivot from my financial background in accounting into more tech roles. I'm also learning how to play chess.
-- 💞️ I’m looking to collaborate on cool projects and transform data.
+Bienvenidos! 
+- 👋 Hola, I’m @CrystalinSpanish
+- 👀 I’m interested in making an interactive app to help B2C interaction. 
+- 🌱 I’m currently learning programming in HTML, CSS and Javascript.
+- 💞️ I’m looking to make my first website to help increase sales for small business. I hope to build an app to help meet business needs. 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: UIUC alum and first gen trying to learn some problem solving skills. 
+- ⚡ Fun fact: I have an ice cream truck business. 
 
 <!---
 CrystalinSpanish/CrystalinSpanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
