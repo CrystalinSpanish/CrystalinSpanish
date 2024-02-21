@@ -1,4 +1,4 @@
-Bienvenidos! 
+# Bienvenidos! 
 - 👋 Hola, I’m @CrystalinSpanish
 - 👀 I’m interested in making an interactive app to help B2C interaction. 
 - 🌱 I’m currently learning programming in HTML, CSS and Javascript.
